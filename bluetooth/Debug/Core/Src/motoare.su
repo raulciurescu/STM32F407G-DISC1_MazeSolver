@@ -1,0 +1,5 @@
+../Core/Src/motoare.c:11:6:stopMotoare	8	static
+../Core/Src/motoare.c:23:6:mersInainte	16	static
+../Core/Src/motoare.c:35:6:mersInapoi	16	static
+../Core/Src/motoare.c:48:6:curbaStanga	16	static
+../Core/Src/motoare.c:61:6:curbaDreapta	16	static
